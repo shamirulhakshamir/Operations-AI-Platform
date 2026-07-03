@@ -1,6 +1,6 @@
-# adyen-operations-ai-poc
+# Operations-AI-Platform
 
-Proof-of-concept project demonstrating Operations AI capabilities for payments processing, built as a portfolio piece for the **Data Scientist - Operations AI** role at **Adyen**.
+An ML-driven operations intelligence platform featuring processing optimization, anomaly detection, and capacity planning — built to demonstrate production-grade operational AI engineering patterns.
 
 ## Overview
 
