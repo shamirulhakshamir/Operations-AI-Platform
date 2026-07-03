@@ -15,7 +15,7 @@ This project showcases three core operational intelligence modules that address 
 ## Project Structure
 
 ```
-POC_Project/
+operations-ai-platform/
 ├── README.md
 ├── requirements.txt
 ├── src/
